@@ -1,7 +1,7 @@
 OLÁ 👋
 Eu sou a Gabriella Caproni. Sou uma desenvolvedora em formação, apaixonada por tecnologia e sempre em busca de novos conhecimentos!
 
-Tenho 18 anos e sou uma entusiasta da programação. Minha jornada no mundo da informática começou em 202, e em 2024, concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS - Campus Machado). Essa experiência me deu uma base sólida e acendeu minha paixão pela área, que fez com que eu escolhesse o meu curso atual. Ou seja, atualmente, estou no meu primeiro ano da graduação em Ciência da Computação, pronta para aprofundar meus conhecimentos e enfrentar novos desafios!
+Tenho 18 anos e sou uma entusiasta da programação. Minha jornada no mundo da informática começou em 2022, e em 2024, concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS - Campus Machado). Essa experiência me deu uma base sólida e acendeu minha paixão pela área, que fez com que eu escolhesse o meu curso atual. Ou seja, atualmente, estou no meu primeiro ano da graduação em Ciência da Computação, pronta para aprofundar meus conhecimentos e enfrentar novos desafios!
 
 Minhas Habilidades e experiências
 
