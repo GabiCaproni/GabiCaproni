@@ -1,35 +1,39 @@
-OLÁ 👋
-Eu sou a Gabriella Caproni. Sou uma desenvolvedora em formação, apaixonada por tecnologia e sempre em busca de novos conhecimentos!
+ 👋 Hi, how are you? I'm Gabriella Caproni 💻
 
-Tenho 18 anos e sou uma entusiasta da programação. Minha jornada no mundo da informática começou em 2022, e em 2024, concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS - Campus Machado). Essa experiência me deu uma base sólida e acendeu minha paixão pela área, que fez com que eu escolhesse o meu curso atual. Ou seja, atualmente, estou no meu primeiro ano da graduação em Ciência da Computação, pronta para aprofundar meus conhecimentos e enfrentar novos desafios!
+ 🐣 About Me
+Sou uma desenvolvedora em formação, apaixonada por programação e sempre em busca de novos conhecimentos!  
+Minha jornada começou em 2022, e em 2024 concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS – Campus Machado).  
+Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar meus conhecimentos e enfrentar novos desafios! 🚀  
 
-Minhas Habilidades e experiências
+---
 
-Linguagens de Programação (Básicas): Java e C++
+ ⚡ Skills and Experiences
 
-Desenvolvimento Web: HTML e CSS
+- Programming Languages (Básico): Java ☕ | C++ ⚙️  
+- Web Development: HTML 🌐 | CSS 🎨  
+- Databases: SQL (básico) 🗄️ | Noções gerais de Banco de Dados  
 
-Banco de Dados: SQL (básico) e noções de Banco de Dados
+---
 
-Projetos: Participei de um projeto de extensão onde trabalhamos no desenvolvimento de um site gerenciador de dados para um aplicativo. Essa foi uma experiência prática valiosa no desenvolvimento web e gerenciamento de informações.
+ 🛠️ Languages and Tools
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=white)
 
-Conecte-se comigo, estou sempre aberta a novas conexões e oportunidades para aprender e colaborar!
+---
 
-LinkedIn: Gabriella Caproni (www.linkedin.com/in/gabriella-caproni-4a8b61354)
+📚 Learning
+![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
 
-Neste perfil, você encontrará meus projetos acadêmicos e pessoais, materiais de estudo e o progresso da minha jornada como desenvolvedora inicial.
+---
 
-<!--
-**GabiCaproni/GabiCaproni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Let's Connect
+[![Linkedin: Gabriella Caproni](https://img.shields.io/badge/-Gabriella%20Caproni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-caproni-4a8b61354)](https://www.linkedin.com/in/gabriella-caproni-4a8b61354)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Aqui você encontrará meus **projetos acadêmicos e pessoais**, materiais de estudo e o progresso da minha jornada como desenvolvedora inicial.  
