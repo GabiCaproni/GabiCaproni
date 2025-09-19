@@ -1,6 +1,7 @@
  👋 Olá, como está? Sou a Gabriella Caproni 💻
 
  🐣 About Me
+ 
 Sou uma desenvolvedora em formação, apaixonada por programação e sempre em busca de novos conhecimentos!  
 Minha jornada começou em 2022, e em 2024 concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS – Campus Machado).  
 Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar meus conhecimentos e enfrentar novos desafios! 🚀  
