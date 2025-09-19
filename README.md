@@ -1,4 +1,4 @@
- 👋 Hi, how are you? I'm Gabriella Caproni 💻
+ 👋 Olá, como está? Sou a Gabriella Caproni 💻
 
  🐣 About Me
 Sou uma desenvolvedora em formação, apaixonada por programação e sempre em busca de novos conhecimentos!  
