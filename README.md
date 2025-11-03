@@ -30,40 +30,6 @@ Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar me
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
 
----
-
-# 📊 Estatísticas do GitHub
-
-## 🎯 Visão Geral do Perfil
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true)
-
----
-
-## 💻 Tecnologias Mais Usadas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-**Linguagens Principais:**
-- 🎯 **Haskell** - Desenvolvimento funcional e algoritmos
-- 🔧 **C** - Sistemas e programação de baixo nível  
-- 🌐 **HTML/CSS** - Desenvolvimento web front-end
-- ⚡ **JavaScript** - Interatividade e aplicações web
-- 🐍 **Python** - Scripts e automação (se aplicável)
-
----
-
-## 📈 Métricas de Contribuição
-
-| Métrica | Valor | Período |
-|---------|-------|---------|
-| **Total de Contribuições** | 🟢 167+ | Aug 2021 - Presente |
-| **Sequência Atual** | 🔥 0 dias | - |
-| **Maior Sequência** | ⭐ 3 dias | Jun 29, 2022 - Jul 1, 2022 |
-| **Repositórios Públicos** | 📚 X | - |
-| **Seguidores** | 👥 Y | - |
 
 ---
 
