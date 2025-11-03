@@ -1,6 +1,6 @@
  👋 Olá, como está? Sou a Gabriella Caproni 💻
 
- 🐣 About Me
+ 🐣 Sobre mim
  
 Sou uma desenvolvedora em formação, apaixonada por programação e sempre em busca de novos conhecimentos!  
 Minha jornada começou em 2022, e em 2024 concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS – Campus Machado).  
@@ -8,7 +8,7 @@ Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar me
 
 ---
 
- ⚡ Skills and Experiences
+ ⚡ Skills e Experiências 
 
 - Programming Languages (Básico): Java ☕ | C++ ⚙️  
 - Web Development: HTML 🌐 | CSS 🎨  
@@ -16,7 +16,7 @@ Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar me
 
 ---
 
- 🛠️ Languages and Tools
+ 🛠️ Linguagens
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
@@ -26,13 +26,49 @@ Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar me
 
 ---
 
-📚 Learning
+📚 Estudando
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
 
 ---
 
-🌎 Let's Connect
+# 📊 Estatísticas do GitHub
+
+## 🎯 Visão Geral do Perfil
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true)
+
+---
+
+## 💻 Tecnologias Mais Usadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+**Linguagens Principais:**
+- 🎯 **Haskell** - Desenvolvimento funcional e algoritmos
+- 🔧 **C** - Sistemas e programação de baixo nível  
+- 🌐 **HTML/CSS** - Desenvolvimento web front-end
+- ⚡ **JavaScript** - Interatividade e aplicações web
+- 🐍 **Python** - Scripts e automação (se aplicável)
+
+---
+
+## 📈 Métricas de Contribuição
+
+| Métrica | Valor | Período |
+|---------|-------|---------|
+| **Total de Contribuições** | 🟢 167+ | Aug 2021 - Presente |
+| **Sequência Atual** | 🔥 0 dias | - |
+| **Maior Sequência** | ⭐ 3 dias | Jun 29, 2022 - Jul 1, 2022 |
+| **Repositórios Públicos** | 📚 X | - |
+| **Seguidores** | 👥 Y | - |
+
+---
+
+
+🌎 Conecte-se comigo
 [![Linkedin: Gabriella Caproni](https://img.shields.io/badge/-Gabriella%20Caproni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-caproni-4a8b61354)](https://www.linkedin.com/in/gabriella-caproni-4a8b61354)
 
 ---
