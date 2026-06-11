@@ -1,42 +1,26 @@
- 👋 Olá, como está? Sou a Gabriella Caproni 💻
+# 👋 Oi! Eu sou a Gabriella Caproni
 
- 🐣 Sobre mim
- 
-Sou uma desenvolvedora em formação, apaixonada por programação e sempre em busca de novos conhecimentos!  
-Minha jornada começou em 2022, e em 2024 concluí meu curso Técnico em Informática integrado ao Ensino Médio pelo Instituto Federal do Sul de Minas (IFSULDEMINAS – Campus Machado).  
-Atualmente, curso **Ciência da Computação** e estou pronta para aprofundar meus conhecimentos e enfrentar novos desafios! 🚀  
+💻 Estudante de Ciência da Computação | 🚀 Desenvolvedora em formação
 
----
+## Um pouco sobre mim
 
- ⚡ Skills e Experiências 
+Minha jornada na programação começou em 2022, quando tive meu primeiro contato com desenvolvimento de software. O que era apenas curiosidade rapidamente se transformou em algo muito maior.
+Em 2024 concluí o curso Técnico em Informática integrado ao Ensino Médio no IFSULDEMINAS – Campus Machado. Foi durante essa experiência que escrevi meus primeiros códigos, enfrentei meus primeiros erros e descobri que a tecnologia era o caminho que eu queria seguir.
 
-- Programming Languages (Básico): Java ☕ | C++ ⚙️  
-- Web Development: HTML 🌐 | CSS 🎨  
-- Databases: SQL (básico) 🗄️ | Noções gerais de Banco de Dados  
+Atualmente curso Ciência da Computação e continuo expandindo meus conhecimentos, explorando novas tecnologias e buscando evoluir tanto na parte técnica quanto na resolução de problemas. Acredito que aprender é um processo contínuo, e estou sempre aberta a novos desafios.
 
----
+## 💡 Tecnologias que já fazem parte da minha jornada
 
- 🛠️ Linguagens
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=white)
-
----
-
-📚 Estudando
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
+* ☕ Java
+* ⚙️ C++
+* 🌐 HTML5 e CSS3
+* 🗄️ SQL
+* 📊 Banco de Dados
 
 
----
+## 🌎 Onde me encontrar
 
+🔗 LinkedIn: [www.linkedin.com/in/gabriella-caproni](http://www.linkedin.com/in/gabriella-caproni)
 
-🌎 Conecte-se comigo
-[![Linkedin: Gabriella Caproni](https://img.shields.io/badge/-Gabriella%20Caproni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriella-caproni-4a8b61354)](https://www.linkedin.com/in/gabriella-caproni-4a8b61354)
+Aqui no GitHub você vai encontrar projetos acadêmicos, estudos, experimentos e registros da minha evolução como desenvolvedora. Cada repositório representa um pouco do que aprendi ao longo dessa caminhada.
 
----
-
-✨ Aqui você encontrará meus **projetos acadêmicos e pessoais**, materiais de estudo e o progresso da minha jornada como desenvolvedora inicial.  
